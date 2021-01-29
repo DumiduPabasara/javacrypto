@@ -6,6 +6,8 @@ import java.io.Serializable;
 
 //Add the first Comment
 
+//Added the second Comment
+
 
 public class Car implements Serializable{
  private String no;
